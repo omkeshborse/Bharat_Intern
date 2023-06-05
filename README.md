@@ -4,10 +4,10 @@ Hosted Website :
 
 ++++-------------------------------------------------------------------------+++++
 
-task 1 : 
+task 2 : 
 Temperature Converter :  https://temperatureconverterproject.netlify.app/
 
 ++++-------------------------------------------------------------------------+++++
 
-task 2 : 
+task 3 : 
 Homepage of Netflix : https://homepagenetfix.netlify.app/
