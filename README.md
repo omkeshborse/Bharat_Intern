@@ -2,6 +2,6 @@
 Bharat_Intern
 Hosted Website : 
 task 1 : 
-Temperature Converter : 
+Temperature Converter :  https://temperatureconverterproject.netlify.app/
 task 2 : 
-Homepage of Netflix : 
+Homepage of Netflix : https://homepagenetfix.netlify.app/
